@@ -1,0 +1,5 @@
+5-30-5 Punch workout
+paired workout
+Start with 5 punches increment by 5s alternating up to 30
+Then start counting down
+Duration: 5Mins

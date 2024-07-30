@@ -1,0 +1,7 @@
+MedicineBall
+Toe touches X2
+Left/Right X3
+Side to side handoffs X2
+Up + Down X2
+Whistle touches X3
+Duration: 8Mins

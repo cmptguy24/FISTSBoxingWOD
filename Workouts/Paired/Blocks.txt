@@ -1,0 +1,7 @@
+Blocks - Defence
+High Guard
+1+2 Parry
+Body block
+1+2 Body
+1+2 Body/1+2 Head
+Duration: 25Mins

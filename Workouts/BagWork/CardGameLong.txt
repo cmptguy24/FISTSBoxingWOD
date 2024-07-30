@@ -1,0 +1,4 @@
+Card Game Long
+Long verison
+Description: Spades-Jabs, Clubs-Cross, Hearts-Left hooks, Diamonds-Right hook. Jokers everything. Number is how many secs X10
+Duration: 26Mins
